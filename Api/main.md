@@ -1,7 +1,17 @@
 # Component Examples (MDC Syntax)
 
 Here is a ready-to-use cheat sheet for the new documentation components. You can copy and paste these blocks directly into your Markdown (`.md`) files in the `PharenIT/Hub-Docs` repository.
+# Willkommen in den Docs!
 
+Schau dir dieses Feature an:
+
+::docs-feature-card
+---
+title: "Tolles Feature"
+icon: "lucide:rocket"
+---
+Dieser Text steht innerhalb der Karte als Body und wird komplett vom MDC durchgereicht!
+::
 ## Feature Cards
 
 Use feature cards to link to other pages with a nice hover effect.
