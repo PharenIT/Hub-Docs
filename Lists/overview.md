@@ -6,12 +6,26 @@ order: 1
 
 # Pharen Hub Overview
 
+::docs-steps
+
+:::docs-step{title="Schritt 1"}
+Beschreibung.
+:::
+
+:::docs-step{title="Schritt 2"}
+Beschreibung.
+:::
+
+::
+
 Pharen Hub is a workflow automation platform for teams that want to design, run, and scale AI-powered processes in one place.
 
 ## What Pharen Hub is
 
 Pharen Hub combines visual workflow building, AI agents, integrations, and execution infrastructure into a single operational layer.  
 It helps teams move from manual operations to reliable, automated flows.
+
+
 
 ## Core capabilities
 
