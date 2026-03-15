@@ -1,4 +1,8 @@
-# Component Examples (MDC Syntax)
+# Componesnt Examples (MDC Syntax)
+
+
+![J Kanthak-04.png](/_assets/1773572035902-J-Kanthak-04.png)
+
 
 Here is a ready-to-use cheat sheet for the new documentation components. You can copy and paste these blocks directly into your Markdown (`.md`) files in the `PharenIT/Hub-Docs` repository.
 # Willkommen in den Docs!
