@@ -1,10 +1,10 @@
 ---
-title: testtt
+title: showcase
 description: ""
 ---
 
 ::docs-api-endpoint
 method: "GET"
-path: "/v1/testtt"
+path: "/v1/showcase"
 description: ""
 ::
