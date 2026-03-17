@@ -76,3 +76,11 @@ description: Nicht gefunden
 }
 ```
 ::
+
+::docs-callout
+---
+type: "warning"
+title: "Hinweis"
+---
+Kurzer Hinweistext.
+::
