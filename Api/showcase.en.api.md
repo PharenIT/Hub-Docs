@@ -15,7 +15,7 @@ Hier ist ein Beispiel für eine öffentliche API (The Free Joke API), die wir di
 ::docs-api-endpoint
 ---
 title: Get a Random Joke
-method: GET
+method: POST
 baseUrl: https://official-joke-api.appspot.com
 path: /random_joke
 description: Ruft einen zufälligen Witz von der Official Joke API ab.
@@ -29,7 +29,7 @@ Du kannst auch Endpunkte mit Query-Parametern definieren.
 ::docs-api-endpoint
 ---
 title: Search Github Repos
-method: GET
+method: POST
 baseUrl: https://api.github.com
 path: /search/repositories
 params:
