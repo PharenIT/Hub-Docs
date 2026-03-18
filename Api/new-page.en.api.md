@@ -1,11 +1,11 @@
 ---
-title: new-page
+title: "New Page"
 description: ""
 ---
 
 ::docs-api-endpoint
 ---
-title: "new-page"
+title: "New Page"
 method: "GET"
 path: "/v1/new-page"
 description: ""
