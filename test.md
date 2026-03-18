@@ -71,3 +71,5 @@ const getPage = async (path: string): Promise<DocPage> => {
 ```
 
 Das war der kleine Rundgang durch die Pharen Docs Features!
+
+![Bild (1).png](/_assets/1773860191268-Bild-1-.png)
